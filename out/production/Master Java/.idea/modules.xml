@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" filepath="$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Strings and StringMethods/10. Strings and StringMethods.iml" filepath="$PROJECT_DIR$/10. Strings and StringMethods/10. Strings and StringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Operators/2. Operators.iml" filepath="$PROJECT_DIR$/2. Operators/2. Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Conditional Control Flow/3. Conditional Control Flow.iml" filepath="$PROJECT_DIR$/3. Conditional Control Flow/3. Conditional Control Flow.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Number System/4. Number System.iml" filepath="$PROJECT_DIR$/4. Number System/4. Number System.iml" />
@@ -10,7 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/6. Functions and Procedure/6. Functions and Procedure.iml" filepath="$PROJECT_DIR$/6. Functions and Procedure/6. Functions and Procedure.iml" />
       <module fileurl="file://$PROJECT_DIR$/7. Arrays/7. Arrays.iml" filepath="$PROJECT_DIR$/7. Arrays/7. Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/8. Class and Objects/8. Class and Objects.iml" filepath="$PROJECT_DIR$/8. Class and Objects/8. Class and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. Recursive Control Flow/9. Recursive Control Flow.iml" filepath="$PROJECT_DIR$/9. Recursive Control Flow/9. Recursive Control Flow.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Master Java.iml" filepath="$PROJECT_DIR$/.idea/Master Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
   </component>
 </project>

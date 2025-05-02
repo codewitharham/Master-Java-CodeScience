@@ -15,8 +15,8 @@ public class IntroInArray {
         */
 
         // Declare and initialize an array of integers with 5 elements
-        int[] numbers = new int[5];
-        System.out.println(numbers.hashCode());
+        int[] numbers = new int[20];
+
 
         System.out.println(Arrays.toString(numbers));
 
